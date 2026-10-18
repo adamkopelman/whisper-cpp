@@ -1,0 +1,4 @@
+# Whisper models are large (75 MB+) and are NOT committed. Download one with
+# download-model.ps1 / download-model.sh (see README.md).
+models/*.bin
+models/*.part
